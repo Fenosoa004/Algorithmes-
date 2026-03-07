@@ -1,0 +1,12 @@
+Variables :
+     a, b, c, m : réels
+Début :
+     Afficher ("Entrer la première chiffre")
+     LIRE (a)
+     Afficher ("Entrer la deuxième chiffre")
+     LIRE (b)
+     Afficher ("Entrer la troisième chiffre")
+     LIRE(c)
+     m ⟵ (a+b+c)/3
+     Afficher ("Moyenne :", m)
+FIN
