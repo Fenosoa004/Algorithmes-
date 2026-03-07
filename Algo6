@@ -1,0 +1,10 @@
+Variables :
+     a, b, c : entier
+Début :
+     Écrire ("Saisir votre salaire mensuel")
+     LIRE (a)
+     Écrire ("Nombre d'année :")
+     LIRE (b)
+     c ⟵ a × b × 12
+     Écrire ("Votre salaire pendant",b,"années est",c")
+FIN
