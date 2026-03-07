@@ -1,0 +1,10 @@
+Variables :
+     a, b, c : reels
+Début :
+     Afficher ("Entrer l'année actuelle")
+     LIRE (a)
+     Afficher ("Entrer votre année de naissance")
+     LIRE (b)
+     c ⟵ a - b
+     Afficher ("Votre âge est", c)
+FIN
