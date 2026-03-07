@@ -1,0 +1,12 @@
+Variables :
+     a, b, c, d : entier 
+Début :
+     Affichage ("âge :")
+     LIRE (a)
+     Affichage ("Année actuelle :")
+     LIRE (b)
+     Affichage ("Année future :")
+     LIRE (c)
+     d ⟵ a + (c - b)
+     Écrire ("Tu sera",d,"ans en",c )
+FIN
