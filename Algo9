@@ -1,0 +1,8 @@
+Début :
+     Écrire ("Donner une distance en metre :")
+     LIRE (d)
+     Écrire ("Donner une vitesse constante en m/s :")
+     LIRE (v)
+     t ⟵ d / v
+     Afficher ("Le temps parcourir est",t,"secondes")
+FIN
