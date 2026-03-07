@@ -1,0 +1,10 @@
+Variables :
+     e, f, r : réels
+Début :
+     Afficher ("Énergie mecanique :")
+     LIRE (e)
+     Afficher ("Énergie électrique formé:")
+     LIRE (f)
+     r ⟵ (f/e) × 100
+     Afficher ("Le rendement est",r,"%")
+FIN
