@@ -1,0 +1,11 @@
+Variables :
+     a, b, x : réels
+Début :
+     Affichage (" ax + b = 0 ")
+     Écrire ("Donner la valeur de a")
+     LIRE (a)
+     Écrire ("Donner la valeur de b")
+     LIRE (b)
+     x ⟵ -b/a
+     Afficher ("La solution est", x )
+FIN
