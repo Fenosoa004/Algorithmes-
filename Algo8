@@ -1,0 +1,8 @@
+Variables :
+     a, b : entiers
+Début :
+     Écrire ("Donner un nombre")
+     LIRE (a)
+     b ⟵ a^(1/2)
+     Afficher ("La racine carrée de",a,"est",b )
+FIN
