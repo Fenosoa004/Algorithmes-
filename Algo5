@@ -1,0 +1,8 @@
+Variables :
+     a, b : entier
+Début :
+     Écrire ("Saisissez votre dépense quotidienne")
+     LIRE (a)
+     b ⟵ a × 365
+     Afficher ("Votre dépense annuelle est", b)
+FIN
