@@ -1,3 +1,6 @@
+*Calcul temps parcourir*
+Variables :
+     t, d, v : réels 
 Début :
      Écrire ("Donner une distance en metre :")
      LIRE (d)
