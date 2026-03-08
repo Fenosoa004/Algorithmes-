@@ -1,3 +1,4 @@
+*Calcul d'âge*
 Variables :
      a, b, c : reels
 Début :
@@ -6,5 +7,5 @@ Début :
      Afficher ("Entrer votre année de naissance")
      LIRE (b)
      c ⟵ a - b
-     Afficher ("Votre âge est", c)
+     Afficher ("Tu as",c,"ans")
 FIN
