@@ -1,11 +1,12 @@
+*Moyenne entre trois nombres*
 Variables :
      a, b, c, m : réels
 Début :
-     Afficher ("Entrer la première chiffre")
+     Afficher ("Entrer la première nombre")
      LIRE (a)
-     Afficher ("Entrer la deuxième chiffre")
+     Afficher ("Entrer la deuxième nombre")
      LIRE (b)
-     Afficher ("Entrer la troisième chiffre")
+     Afficher ("Entrer la troisième nombre")
      LIRE(c)
      m ⟵ (a+b+c)/3
      Afficher ("Moyenne :", m)
