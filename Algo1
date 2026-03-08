@@ -1,3 +1,4 @@
+*Resolution d'une equation linéaire*
 Variables :
      a, b, x : réels
 Début :
@@ -7,5 +8,5 @@ Début :
      Écrire ("Donner la valeur de b")
      LIRE (b)
      x ⟵ -b/a
-     Afficher ("La solution est", x )
+     Afficher ("D'où la solution est", x )
 FIN
